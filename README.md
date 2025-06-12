@@ -21,6 +21,6 @@ Das Besondere an diesem Projekt ist, dass es völlig kostenlos ist, keine Regist
 Wir begrüßen Beiträge aus der Community! Wenn Sie Verbesserungen, Fehlerberichte oder Ideen haben, öffnen Sie bitte ein **Issue** oder senden Sie einen **Pull Request** auf unserem GitHub.
 
 
-## Lizenz
+## Community-Sharing
 
-Dieses Projekt wird unter der [MIT-Lizenz](LICENSE) veröffentlicht.
+Außerdem teilen wir den Quellcode, damit jeder eine ähnliche Website erstellen kann.
