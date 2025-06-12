@@ -11,7 +11,7 @@ Das Besondere an diesem Projekt ist, dass es völlig kostenlos ist, keine Regist
 
 ## Nutzung
 
-1. Besuchen Sie [GPTDE.de](https://gptde.de).
+1. Besuchen Sie [ChatGPT-Deutsch](https://gptde.de).
 2. Geben Sie eine Frage oder ein Thema ein, das Sie besprechen möchten.
 3. Klicken Sie auf "Senden" und erhalten Sie eine Antwort von ChatGPT.
 4. Entdecken Sie weitere Funktionen und nutzen Sie die KI-Technologie optimal.
